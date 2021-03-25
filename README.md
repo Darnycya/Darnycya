@@ -18,12 +18,8 @@ const darnycya = {
 }
 ```
 
-
-<img height="200" src="https://media.giphy.com/media/eMswhbd9RtdjxBOaGb/giphy.gif">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darnycya&layout=compact)](https://github.com/darnycya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darnycya&layout=compact)](https://github.com/darnycya/github-readme-stats)
 
 ##
-
-<p align="center">
-<img src="https://media.giphy.com/media/PnI2Lj854uGN68fPo5/giphy.gif"></p>
 <h5 align="center">I'd love to connect with you all on <a href="https://www.linkedin.com/in/darnycya">LinkedIn</a>.</h5>
 
