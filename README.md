@@ -10,8 +10,8 @@ const darnycya = {
   tools: [React, Node, Storybook, Styled-Components, Bootstrap, Rails],
   lookingForOpenPositionsIn: ["Front-End Engineer", "Software Engineer"],
   currentJob: {
-                        position: "Instructional Associate",
-                        company: "General Assembly",
+                        position: "Junior Software Engineer",
+                        company: "Verizon",
                         location: "New York, NY"
                       },
  emailAddress: "darnycya@gmail.com"
