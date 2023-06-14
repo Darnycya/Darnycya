@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/darnycya/image/upload/v1686775944/Red_World_Art_Day_Banner_Landscape_p8pe9s.png"></img></p>
+<p align="center"><img src="https://res.cloudinary.com/darnycya/image/upload/v1686776398/Banner_n4c99c.png"></img></p>
 
 ## ``aboutMe()`` 
 [![Linkedin: darnycya](https://img.shields.io/badge/-darnycya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darnycya/)](https://www.linkedin.com/in/darnycya/)
