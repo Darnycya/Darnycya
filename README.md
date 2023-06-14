@@ -5,16 +5,12 @@
 
 ```javascript
 const darnycya = {
+  howToPronounceName: "Dar-knee-see-yah"
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Ruby],
   tools: [React, Node, Storybook, Styled-Components, Bootstrap, Rails],
   lookingForOpenPositionsIn: ["Front-End Engineer", "Software Engineer"],
-  currentJob: {
-                        position: "Junior Software Engineer",
-                        company: "Verizon",
-                        location: "New York, NY"
-                      },
- emailAddress: "darnycya@gmail.com"
+  emailAddress: "darnycya@gmail.com"
 }
 ```
 
