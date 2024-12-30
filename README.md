@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/darnycya/image/upload/v1686776398/Banner_n4c99c.png"></img></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ecb1bc40-42a4-47e6-8843-b7bcb91f5991"></img></p>
 
 ## ``aboutMe()`` 
 [![Linkedin: darnycya](https://img.shields.io/badge/-darnycya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darnycya/)](https://www.linkedin.com/in/darnycya/)
@@ -7,9 +7,9 @@
 const darnycya = {
   howToPronounceName: "Dar-knee-see-yah"
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Ruby],
-  tools: [React, Node, Storybook, Styled-Components, Bootstrap, Rails],
-  lookingForOpenPositionsIn: ["Front-End Engineer", "Software Engineer"],
+  code: [Javascript, HTML, CSS, Ruby, TypeScript, Python, Tailwind],
+  tools: [React, Node, Storybook, Styled-Components, Bootstrap, Rails, AWS, WordPress, Adobe],
+  lookingForOpenPositionsIn: ["Front-End Engineer", "Senior Software Engineer"],
   emailAddress: "darnycya@gmail.com"
 }
 ```
